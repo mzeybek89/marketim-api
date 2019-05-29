@@ -1,0 +1,9 @@
+sftp-config.json
+api/images/*.png
+api/images/*.jpg
+api/images/*.jpeg
+api/images/*.gif
+priz.php
+index.php
+*DS_Store
+*conn.php
